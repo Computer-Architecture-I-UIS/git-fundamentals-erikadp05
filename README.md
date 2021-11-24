@@ -103,8 +103,8 @@ To learn more about forking, read ["For a Repo"](https://docs.github.com/en/gith
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
-* ##solucion punto 2
-* ###probando tamaño de texto
+* ##solucion punto 2##
+* ###probando tamaño de texto##
 ~~esto es un mensaje de error~~
 ***esto es un texto importante***
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
